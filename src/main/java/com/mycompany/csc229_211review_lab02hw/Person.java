@@ -7,7 +7,7 @@ package com.mycompany.csc229_211review_lab02hw;
 public abstract class Person {
 	
 	private String name;
-	private String address;
+	protected String address;
 	private short age;
 	
 	// constructor that takes only two paras
